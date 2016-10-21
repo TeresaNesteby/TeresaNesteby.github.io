@@ -123,7 +123,7 @@ a:focus {
  */
 
 .navbar {
-	border:0px;  
+	border:0px;
     text-transform: uppercase;
     font-family: "Muli","Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: none;
@@ -217,7 +217,7 @@ a:focus {
 }
 .top-nav-collapse .navbar-nav > li > a,
 .top-nav-collapse .navbar-nav .dropdown-menu > li > a {
-	color:black !important;	
+	color:black !important;
 }
 
 .top-nav-collapse .navbar-nav .dropdown-menu {
@@ -226,7 +226,7 @@ a:focus {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
-       
+
 }
 .top-nav-collapse .caret {
     border-bottom-color: black !important;
@@ -314,7 +314,7 @@ a:focus {
 
 /**********************************
  * MODULES
- * 
+ *
  *********************************/
 
 /*SOCIAL ICONS MODULE HEAD*/
@@ -886,7 +886,7 @@ a:focus {
 	margin: 0;
 	position: relative;
 	text-align: center;
-	top: 4px;	
+	top: 4px;
 	-webkit-transition:all 0.4s ease-in-out 0s;
 	-moz-transition:all 0.4s ease-in-out 0s;
 	-o-transition:all 0.4s ease-in-out 0s;
@@ -1251,7 +1251,7 @@ a:focus {
 }
 /**********************************
  * SECTIONS
- * 
+ *
  *********************************/
 
 /*general styles*/
@@ -1355,7 +1355,7 @@ section:nth-child(odd) {
 #head .hero h1{
 	font-weight:800;
 	text-transform:uppercase;
-	font-size:60px; 
+	font-size:60px;
 	color:white;
 	margin-bottom:0px;
 }
@@ -1426,7 +1426,7 @@ section:nth-child(odd) {
 #testimonials{
 	background:#F5F5F5;
 }
-#contact {	
+#contact {
 	background: #2F3238;
 	color: #777777;
 }
@@ -1491,7 +1491,7 @@ section:nth-child(odd) {
 	font-size: 35px;
 }
 #contact .social-icons a{
-	width:50px;	
+	width:50px;
 }
 #contact .background-icon{
 	position:absolute;
@@ -1523,10 +1523,10 @@ footer .copy {
 
 
 /*
- * 
+ *
  * 404
- * 
- * 
+ *
+ *
 */
 .page-notfound{
 	height:100%;
@@ -1656,7 +1656,7 @@ hr.not-visible{
 
 /*only for webkit  browsers*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
-    .background-middle-full.fixed{ 
+    .background-middle-full.fixed{
         background-attachment: scroll !important;
     }
 }
